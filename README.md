@@ -1,4 +1,4 @@
-# 💰 ExpenseTracker AI
+# 💰 FindTracker AI
 
 A modern, AI-powered expense tracking web application built with Next.js 15, featuring intelligent categorization, real-time analytics, and personalized financial insights.
 
@@ -196,16 +196,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 💖 Support
 
 If you find this project helpful, please give it a ⭐ on GitHub!
 
 ---
 
-**Built with ❤️ by [Sahand Ghavidel](https://github.com/sahandghavidel)**
+**Built with ❤️ by Rukshan Ekanayake
 
 _Demonstrating modern full-stack development with AI integration, completely free to build and deploy._
